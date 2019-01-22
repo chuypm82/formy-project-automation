@@ -1,0 +1,9 @@
+/html/body/div/div[3]
+/html/body/div/div[3]/input
+/html/body/div/div[3]/label
+
+
+//*[@id="checkbox-3"]
+//*[@id="checkbox-3"]
+
+driver.findElement(BycssSelector("#list li:nth-child(n)"));
